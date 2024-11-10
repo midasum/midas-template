@@ -10,6 +10,9 @@ do any of this fast will take double the time to debug and fix. Keep it slow.
 The prompt is very important to avoid confusion like executing commands in the
 wrong place or wrong server.
 
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/8b824b1c-aba4-4e2e-b257-dad0306a13ef">
+
+
 You can personalise the [colors](https://www.hackitu.de/termcolor256/) where you
 see codes that look like `%F{66}` but keep the information shown.
 
