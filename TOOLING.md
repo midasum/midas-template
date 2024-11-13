@@ -61,17 +61,17 @@ alias gst='git status'
 
 - [ ] Prompt set. I see colors.
 
-## Install Google Password Manager
+## Install Proton Password Manager (or Google Password Manager)
 
 You will be handling secrets and need long and impossible to remember passwords.
 
 Here is some information to [create a safe master
 password](https://proton.me/blog/create-remember-strong-passwords) for your
-Google Password Manager.
+Password Manager.
 
-- [ ] Google Password Manager installed.
+- [ ] Password Manager installed.
 - [ ] Strong password set for the password manager (using trick above).
-- [ ] Google Authenticator installed (for 2 factor auth).
+- [ ] Authenticator (Google Authenticator or Proton Pass) installed (for 2 factor auth).
 
 Change your Github password now for a random string saved in the password manager.
 Enable two factor auth.
