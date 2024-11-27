@@ -16,7 +16,9 @@ wrong place or wrong server.
 You can personalise the [colors](https://www.hackitu.de/termcolor256/) where you
 see codes that look like `%F{66}` but keep the information shown.
 
-Try to use `zsh` as default terminal command (instead of bash).
+### zsh
+
+You need to use **zsh** as default terminal command (instead of bash).
 
 Add this to `.zshrc`:
 
