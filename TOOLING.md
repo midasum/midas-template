@@ -176,3 +176,5 @@ $ git push
 ```
 
 If everything is setup correctly, you should have a signed commit pushed to github. Congratulations !
+
+Here I`m porposing some changes [✔]
