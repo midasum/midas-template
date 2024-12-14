@@ -1,0 +1,9 @@
+1. Fork the midas-template [✔]
+2. I think I understood basic important things on Git [✔]
+2. Figuered out the Vim editor [✔]
+3. Installed the ansible-vaut [✔]
+4. Understood how does work Vault [✔] 
+5. Understood how work the enviroments (zsh and bash), and how to change them [✔] 
+6. Done the LOCAL_SECRETS file [✔] 
+
+Got started the K3S work 
