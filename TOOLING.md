@@ -61,7 +61,7 @@ alias gst='git status'
 # add more here as you need...
 ```
 
-- [ ] Prompt set. I see colors.
+- [✔] Prompt set. I see colors.
 
 ## Install Proton Password Manager (or Google Password Manager)
 
@@ -71,15 +71,15 @@ Here is some information to [create a safe master
 password](https://proton.me/blog/create-remember-strong-passwords) for your
 Password Manager.
 
-- [ ] Password Manager installed.
-- [ ] Strong password set for the password manager (using trick above).
-- [ ] Authenticator (Google Authenticator or Proton Pass) installed (for 2 factor auth).
+- [✔] Password Manager installed.
+- [✔] Strong password set for the password manager (using trick above).
+- [✔] Authenticator (Google Authenticator or Proton Pass) installed (for 2 factor auth).
 
 Change your Github password now for a random string saved in the password manager.
 Enable two factor auth.
 
-- [ ] Github password changed.
-- [ ] 2FA enabled on Github.
+- [✔] Github password changed.
+- [✔] 2FA enabled on Github.
 
 ## Create a new SSH key
 
@@ -92,13 +92,13 @@ places where you put it.
 
 Choose a strong random password for this key and save it inside the password manager.
 
-- [ ] New key created.
-- [ ] Strong password saved in password manager.
-- [ ] Password saved in the ssh agent.
+- [✔] New key created.
+- [✔] Strong password saved in password manager.
+- [✔] Password saved in the ssh agent.
 
 Add the SSH key to your Github account with [this manual](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
-- [ ] New SSH key added to Github account.
+- [✔] New SSH key added to Github account.
 
 ## Install GPG
 
@@ -112,11 +112,11 @@ LINUX:
 $ sudo apt-get install gnupg
 ```
 
-- [ ] GPG installed. `gpg --version` working.
+- [✔] GPG installed. `gpg --version` working.
 
 Create a new signing key:
 
-- [ ] GPG key created.
+- [✔] GPG key created.
 
 Copy the key id:
 
@@ -130,7 +130,7 @@ On the line that says `rsa4096/[YOUR_GPG_KEY_ID]` for the key above your email, 
 
 Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-- [ ] Git installed (`git --version` working)
+- [✔] Git installed (`git --version` working)
 
 Setup git configuration:
 
@@ -144,7 +144,7 @@ $ git config --global init.defaultBranch main
 $ git config --list
 ```
 
-- [ ] Git configuration done.
+- [✔] Git configuration done.
 
 ## Clone repository
 
@@ -157,7 +157,7 @@ $ cd git
 $ git clone [git+ssh URL of this repository]
 ```
 
-- [ ] Repository cloned.
+- [✔] Repository cloned.
 
 Make sure you install the recommended VS Code extensions for this workspace.
 
@@ -165,7 +165,7 @@ Render the preview of this file in your VS Code (in the commands, search for Mar
 
 Click on the check box below inside the preview:
 
-- [ ] Check this in the markdown preview.
+- [✔] Check this in the markdown preview.
 
 In the terminal (you can use the one in VS Code: command "Terminal: Focus Terminal")
 

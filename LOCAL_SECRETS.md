@@ -43,7 +43,7 @@ $ ansible-vault --version
 $ ansible-vault --version
 ```
 
-- [ ] Ansible installed: I see the version !
+- [✔] Ansible installed: I see the version !
 
 ### Setup
 
@@ -88,7 +88,7 @@ function vault.edit() {
 $ source ~/.zshrc
 ```
 
-- [ ] Vault ready 🦄
+- [✔] Vault ready 🦄
 
 ### Storing Secrets
 
@@ -104,7 +104,7 @@ Write this in the vault (note this is done with vim):
 export TF_VAR_hetzner_api_token="your api token here"
 ```
 
-- [ ] API key saved in vault 🔑
+- [✔]  API key saved in vault 🔑
 
 ### Using Secrets
 
@@ -114,4 +114,4 @@ You can now use `vault.load` when you start a session and your environment varia
 $ vault.load
 ```
 
-- [ ] It works 🎉 !
+- [✔]  It works 🎉 !
